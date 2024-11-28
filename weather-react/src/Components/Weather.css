@@ -105,9 +105,9 @@ font-size: 22px;
   }
   
   @media (max-width: 400px) {
-    .search-bar {
+    /* .search-bar {
        
-    }
+    } */
   
     .search-bar input {
       width: 100%;
